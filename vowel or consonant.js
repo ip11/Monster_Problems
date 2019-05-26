@@ -1,0 +1,1 @@
+/*Write a program to check whether given character is vowel or consonant*/
